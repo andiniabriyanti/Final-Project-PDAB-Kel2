@@ -15,7 +15,7 @@ Sebuah mini-project berbasis **FastApi** untuk memprediksi **Trend Keramaian Di 
 
 - Prediksi trend kenaikan/penurunan penjualan bulanan.
 - Melihat Hari Hari dalam satu minggu yang paling ramai.
-- Output PRediksi : Trend keramaian.
+- Output Prediksi : Trend keramaian.
 - ringan, cepat dan siap di integrasikan dengan aplikasi lain.
 
 
